@@ -1,4 +1,4 @@
-* {
+*, *::after, *::before {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
@@ -12,7 +12,7 @@
     position: relative;
     overflow: hidden;
     border-bottom: 15px solid green;
-    background: linear-gradient(blue, azure);
+    background-image: url(https://c4.wallpaperflare.com/wallpaper/620/659/598/mario-level-hd-wallpaper-preview.jpg);
 }
 
 .pipe {
